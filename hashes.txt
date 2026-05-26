@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Every Single Night Talk
+
+This log tracks the cryptographic history and versioning for the song **Every Single Night Talk** (every-single-night-talk).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-05-26T16:34:48.271919 | `v1` | `a01bcf0f4b5940baba07c4fb1b7a3af8e8955bd32ea02f4801c58296d49b67e9` | `7773614b583215eadee938cd3adef08f8540776adaa000447a5dc992384c6489` | `2026-05-26_every-single-night-talk-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
