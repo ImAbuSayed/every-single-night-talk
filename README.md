@@ -15,7 +15,7 @@
 | **Written On** | May 26, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/every-single-night-talk/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Secure Licensing Rights for Every Single Night Talk](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/every-single-night-talk/) |
+| **Get License** | [Official Music Licensing for Every Single Night Talk](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/every-single-night-talk/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> I keep your memory pouring like a midnight glass of wine
+> Those soft and heavy shadows falling perfectly in line
+> I feel the static pulling closer every time we touch
+> A slow and steady rhythm that I always want so much
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
